@@ -1,0 +1,43 @@
+﻿  Librarie.cpp
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(10): error C3646: 'titlul': unknown override specifier
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(10): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(11): error C3646: 'autor': unknown override specifier
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(15): error C2061: syntax error: identifier 'string'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(25): error C3646: 'nume': unknown override specifier
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(26): error C3646: 'prenume': unknown override specifier
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(26): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(27): error C2143: syntax error: missing ';' before '<'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(27): error C2238: unexpected token(s) preceding ';'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(32): error C2061: syntax error: identifier 'string'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(32): error C2535: 'Client::Client(void)': member function already defined or declared
+  d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(31): note: see declaration of 'Client::Client'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(38): error C2061: syntax error: identifier 'string'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(10): error C2011: 'Carte': 'class' type redefinition
+  d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(7): note: see declaration of 'Carte'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(37): error C2011: 'Client': 'class' type redefinition
+  d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(22): note: see declaration of 'Client'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(89): error C2027: use of undefined type 'Client'
+  d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(22): note: see declaration of 'Client'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(90): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(91): warning C4508: '{ctor}': function should return a value; 'void' return type assumed
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(103): error C2079: 'c' uses undefined class 'Carte'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(103): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+  d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(103): note: The initializer contains too many elements
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(104): error C2664: 'void std::list<Carte,std::allocator<_Ty>>::push_back(const _Ty &)': cannot convert argument 1 from 'int' to '_Ty &&'
+          with
+          [
+              _Ty=Carte
+          ]
+  d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(104): note: Reason: cannot convert from 'int' to '_Ty'
+          with
+          [
+              _Ty=Carte
+          ]
+  d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(104): note: use of undefined type 'Carte'
+  d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(7): note: see declaration of 'Carte'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(110): error C2027: use of undefined type 'Carte'
+  d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\clientcarte.h(7): note: see declaration of 'Carte'
+d:\_facultate\an 3 sem 2\programare\proiect_examen\librarie\librarie\librarie.cpp(113): error C2079: 'cl' uses undefined class 'Client'
